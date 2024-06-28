@@ -1,0 +1,1783 @@
+id,date,store_nbr,family,onpromotion,city,state,type_x,cluster,type_y,locale,locale_name,description,transferred,dcoilwtico
+3015144,24-08-2017,1,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015145,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015146,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015147,24-08-2017,1,BEVERAGES,26,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015148,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015149,24-08-2017,1,BREAD/BAKERY,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015150,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015151,24-08-2017,1,CLEANING,12,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015152,24-08-2017,1,DAIRY,13,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015153,24-08-2017,1,Daily,11,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015154,24-08-2017,1,Daily,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015155,24-08-2017,1,FROZEN FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015156,24-08-2017,1,GROCERY I,44,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015157,24-08-2017,1,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015158,24-08-2017,1,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015159,24-08-2017,1,Home,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015160,24-08-2017,1,Home,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015161,24-08-2017,1,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015162,24-08-2017,1,Home,6,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015163,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015164,24-08-2017,1,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015165,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015166,24-08-2017,1,Food,3,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015167,24-08-2017,1,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015168,24-08-2017,1,MEATS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015169,24-08-2017,1,LifeStyle,7,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015170,24-08-2017,1,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015171,24-08-2017,1,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015172,24-08-2017,1,POULTRY,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015173,24-08-2017,1,PREPARED FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015174,24-08-2017,1,PRODUCE,3,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015175,24-08-2017,1,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015176,24-08-2017,1,Food,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015177,24-08-2017,10,Tools,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015178,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015179,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015180,24-08-2017,10,BEVERAGES,13,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015181,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015182,24-08-2017,10,BREAD/BAKERY,2,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015183,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015184,24-08-2017,10,CLEANING,16,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015185,24-08-2017,10,DAIRY,7,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015186,24-08-2017,10,Daily,4,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015187,24-08-2017,10,Daily,1,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015188,24-08-2017,10,FROZEN FOODS,1,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015189,24-08-2017,10,GROCERY I,52,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015190,24-08-2017,10,Food,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015191,24-08-2017,10,Tools,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015192,24-08-2017,10,Home,1,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015193,24-08-2017,10,Home,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015194,24-08-2017,10,Home,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015195,24-08-2017,10,Home,7,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015196,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015197,24-08-2017,10,Tools,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015198,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015199,24-08-2017,10,Food,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015200,24-08-2017,10,LifeStyle,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015201,24-08-2017,10,MEATS,18,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015202,24-08-2017,10,LifeStyle,8,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015203,24-08-2017,10,Food,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015204,24-08-2017,10,Tools,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015205,24-08-2017,10,POULTRY,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015206,24-08-2017,10,PREPARED FOODS,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015207,24-08-2017,10,PRODUCE,1,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015208,24-08-2017,10,Home,1,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015209,24-08-2017,10,Food,0,Quito,Pichincha,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015210,24-08-2017,11,Tools,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015211,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015212,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015213,24-08-2017,11,BEVERAGES,27,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015214,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015215,24-08-2017,11,BREAD/BAKERY,5,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015216,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015217,24-08-2017,11,CLEANING,24,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015218,24-08-2017,11,DAIRY,11,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015219,24-08-2017,11,Daily,10,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015220,24-08-2017,11,Daily,1,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015221,24-08-2017,11,FROZEN FOODS,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015222,24-08-2017,11,GROCERY I,59,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015223,24-08-2017,11,Food,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015224,24-08-2017,11,Tools,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015225,24-08-2017,11,Home,1,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015226,24-08-2017,11,Home,1,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015227,24-08-2017,11,Home,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015228,24-08-2017,11,Home,8,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015229,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015230,24-08-2017,11,Tools,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015231,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015232,24-08-2017,11,Food,1,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015233,24-08-2017,11,LifeStyle,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015234,24-08-2017,11,MEATS,22,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015235,24-08-2017,11,LifeStyle,14,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015236,24-08-2017,11,Food,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015237,24-08-2017,11,Tools,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015238,24-08-2017,11,POULTRY,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015239,24-08-2017,11,PREPARED FOODS,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015240,24-08-2017,11,PRODUCE,1,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015241,24-08-2017,11,Home,7,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015242,24-08-2017,11,Food,0,Cayambe,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015243,24-08-2017,12,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015244,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015245,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015246,24-08-2017,12,BEVERAGES,14,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015247,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015248,24-08-2017,12,BREAD/BAKERY,2,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015249,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015250,24-08-2017,12,CLEANING,17,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015251,24-08-2017,12,DAIRY,8,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015252,24-08-2017,12,Daily,6,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015253,24-08-2017,12,Daily,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015254,24-08-2017,12,FROZEN FOODS,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015255,24-08-2017,12,GROCERY I,50,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015256,24-08-2017,12,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015257,24-08-2017,12,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015258,24-08-2017,12,Home,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015259,24-08-2017,12,Home,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015260,24-08-2017,12,Home,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015261,24-08-2017,12,Home,8,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015262,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015263,24-08-2017,12,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015264,24-08-2017,12,LifeStyle,4,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015265,24-08-2017,12,Food,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015266,24-08-2017,12,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015267,24-08-2017,12,MEATS,19,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015268,24-08-2017,12,LifeStyle,12,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015269,24-08-2017,12,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015270,24-08-2017,12,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015271,24-08-2017,12,POULTRY,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015272,24-08-2017,12,PREPARED FOODS,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015273,24-08-2017,12,PRODUCE,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015274,24-08-2017,12,Home,2,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015275,24-08-2017,12,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015276,24-08-2017,13,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015277,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015278,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015279,24-08-2017,13,BEVERAGES,15,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015280,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015281,24-08-2017,13,BREAD/BAKERY,3,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015282,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015283,24-08-2017,13,CLEANING,13,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015284,24-08-2017,13,DAIRY,4,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015285,24-08-2017,13,Daily,3,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015286,24-08-2017,13,Daily,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015287,24-08-2017,13,FROZEN FOODS,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015288,24-08-2017,13,GROCERY I,41,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015289,24-08-2017,13,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015290,24-08-2017,13,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015291,24-08-2017,13,Home,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015292,24-08-2017,13,Home,1,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015293,24-08-2017,13,Home,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015294,24-08-2017,13,Home,8,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015295,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015296,24-08-2017,13,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015297,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015298,24-08-2017,13,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015299,24-08-2017,13,LifeStyle,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015300,24-08-2017,13,MEATS,17,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015301,24-08-2017,13,LifeStyle,8,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015302,24-08-2017,13,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015303,24-08-2017,13,Tools,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015304,24-08-2017,13,POULTRY,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015305,24-08-2017,13,PREPARED FOODS,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015306,24-08-2017,13,PRODUCE,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015307,24-08-2017,13,Home,4,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015308,24-08-2017,13,Food,0,Latacunga,Cotopaxi,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015309,24-08-2017,14,Tools,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015310,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015311,24-08-2017,14,LifeStyle,1,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015312,24-08-2017,14,BEVERAGES,20,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015313,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015314,24-08-2017,14,BREAD/BAKERY,3,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015315,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015316,24-08-2017,14,CLEANING,17,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015317,24-08-2017,14,DAIRY,3,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015318,24-08-2017,14,Daily,2,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015319,24-08-2017,14,Daily,1,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015320,24-08-2017,14,FROZEN FOODS,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015321,24-08-2017,14,GROCERY I,52,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015322,24-08-2017,14,Food,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015323,24-08-2017,14,Tools,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015324,24-08-2017,14,Home,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015325,24-08-2017,14,Home,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015326,24-08-2017,14,Home,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015327,24-08-2017,14,Home,8,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015328,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015329,24-08-2017,14,Tools,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015330,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015331,24-08-2017,14,Food,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015332,24-08-2017,14,LifeStyle,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015333,24-08-2017,14,MEATS,14,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015334,24-08-2017,14,LifeStyle,11,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015335,24-08-2017,14,Food,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015336,24-08-2017,14,Tools,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015337,24-08-2017,14,POULTRY,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015338,24-08-2017,14,PREPARED FOODS,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015339,24-08-2017,14,PRODUCE,2,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015340,24-08-2017,14,Home,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015341,24-08-2017,14,Food,0,Riobamba,Chimborazo,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015342,24-08-2017,15,Tools,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015343,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015344,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015345,24-08-2017,15,BEVERAGES,22,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015346,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015347,24-08-2017,15,BREAD/BAKERY,2,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015348,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015349,24-08-2017,15,CLEANING,19,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015350,24-08-2017,15,DAIRY,8,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015351,24-08-2017,15,Daily,5,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015352,24-08-2017,15,Daily,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015353,24-08-2017,15,FROZEN FOODS,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015354,24-08-2017,15,GROCERY I,57,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015355,24-08-2017,15,Food,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015356,24-08-2017,15,Tools,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015357,24-08-2017,15,Home,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015358,24-08-2017,15,Home,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015359,24-08-2017,15,Home,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015360,24-08-2017,15,Home,8,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015361,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015362,24-08-2017,15,Tools,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015363,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015364,24-08-2017,15,Food,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015365,24-08-2017,15,LifeStyle,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015366,24-08-2017,15,MEATS,15,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015367,24-08-2017,15,LifeStyle,8,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015368,24-08-2017,15,Food,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015369,24-08-2017,15,Tools,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015370,24-08-2017,15,POULTRY,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015371,24-08-2017,15,PREPARED FOODS,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015372,24-08-2017,15,PRODUCE,1,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015373,24-08-2017,15,Home,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015374,24-08-2017,15,Food,0,Ibarra,Imbabura,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015375,24-08-2017,16,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015376,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015377,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015378,24-08-2017,16,BEVERAGES,19,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015379,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015380,24-08-2017,16,BREAD/BAKERY,3,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015381,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015382,24-08-2017,16,CLEANING,13,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015383,24-08-2017,16,DAIRY,6,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015384,24-08-2017,16,Daily,4,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015385,24-08-2017,16,Daily,1,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015386,24-08-2017,16,FROZEN FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015387,24-08-2017,16,GROCERY I,48,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015388,24-08-2017,16,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015389,24-08-2017,16,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015390,24-08-2017,16,Home,2,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015391,24-08-2017,16,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015392,24-08-2017,16,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015393,24-08-2017,16,Home,5,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015394,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015395,24-08-2017,16,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015396,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015397,24-08-2017,16,Food,1,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015398,24-08-2017,16,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015399,24-08-2017,16,MEATS,15,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015400,24-08-2017,16,LifeStyle,9,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015401,24-08-2017,16,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015402,24-08-2017,16,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015403,24-08-2017,16,POULTRY,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015404,24-08-2017,16,PREPARED FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015405,24-08-2017,16,PRODUCE,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015406,24-08-2017,16,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015407,24-08-2017,16,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015408,24-08-2017,17,Tools,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015409,24-08-2017,17,LifeStyle,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015410,24-08-2017,17,LifeStyle,1,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015411,24-08-2017,17,BEVERAGES,20,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015412,24-08-2017,17,LifeStyle,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015413,24-08-2017,17,BREAD/BAKERY,3,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015414,24-08-2017,17,LifeStyle,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015415,24-08-2017,17,CLEANING,16,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015416,24-08-2017,17,DAIRY,10,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015417,24-08-2017,17,Daily,8,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015418,24-08-2017,17,Daily,1,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015419,24-08-2017,17,FROZEN FOODS,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015420,24-08-2017,17,GROCERY I,52,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015421,24-08-2017,17,Food,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015422,24-08-2017,17,Tools,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015423,24-08-2017,17,Home,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015424,24-08-2017,17,Home,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015425,24-08-2017,17,Home,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015426,24-08-2017,17,Home,10,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015427,24-08-2017,17,LifeStyle,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015428,24-08-2017,17,Tools,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015429,24-08-2017,17,LifeStyle,3,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015430,24-08-2017,17,Food,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015431,24-08-2017,17,LifeStyle,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015432,24-08-2017,17,MEATS,18,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015433,24-08-2017,17,LifeStyle,10,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015434,24-08-2017,17,Food,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015435,24-08-2017,17,Tools,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015436,24-08-2017,17,POULTRY,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015437,24-08-2017,17,PREPARED FOODS,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015438,24-08-2017,17,PRODUCE,1,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015439,24-08-2017,17,Home,4,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015440,24-08-2017,17,Food,0,Quito,Pichincha,C,12,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015441,24-08-2017,18,Tools,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015442,24-08-2017,18,LifeStyle,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015443,24-08-2017,18,LifeStyle,1,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015444,24-08-2017,18,BEVERAGES,27,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015445,24-08-2017,18,LifeStyle,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015446,24-08-2017,18,BREAD/BAKERY,3,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015447,24-08-2017,18,LifeStyle,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015448,24-08-2017,18,CLEANING,14,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015449,24-08-2017,18,DAIRY,9,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015450,24-08-2017,18,Daily,9,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015451,24-08-2017,18,Daily,1,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015452,24-08-2017,18,FROZEN FOODS,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015453,24-08-2017,18,GROCERY I,63,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015454,24-08-2017,18,Food,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015455,24-08-2017,18,Tools,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015456,24-08-2017,18,Home,1,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015457,24-08-2017,18,Home,1,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015458,24-08-2017,18,Home,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015459,24-08-2017,18,Home,9,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015460,24-08-2017,18,LifeStyle,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015461,24-08-2017,18,Tools,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015462,24-08-2017,18,LifeStyle,1,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015463,24-08-2017,18,Food,2,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015464,24-08-2017,18,LifeStyle,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015465,24-08-2017,18,MEATS,19,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015466,24-08-2017,18,LifeStyle,10,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015467,24-08-2017,18,Food,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015468,24-08-2017,18,Tools,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015469,24-08-2017,18,POULTRY,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015470,24-08-2017,18,PREPARED FOODS,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015471,24-08-2017,18,PRODUCE,2,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015472,24-08-2017,18,Home,6,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015473,24-08-2017,18,Food,0,Quito,Pichincha,B,16,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015474,24-08-2017,19,Tools,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015475,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015476,24-08-2017,19,LifeStyle,1,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015477,24-08-2017,19,BEVERAGES,16,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015478,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015479,24-08-2017,19,BREAD/BAKERY,1,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015480,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015481,24-08-2017,19,CLEANING,19,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015482,24-08-2017,19,DAIRY,3,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015483,24-08-2017,19,Daily,5,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015484,24-08-2017,19,Daily,1,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015485,24-08-2017,19,FROZEN FOODS,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015486,24-08-2017,19,GROCERY I,47,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015487,24-08-2017,19,Food,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015488,24-08-2017,19,Tools,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015489,24-08-2017,19,Home,1,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015490,24-08-2017,19,Home,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015491,24-08-2017,19,Home,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015492,24-08-2017,19,Home,5,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015493,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015494,24-08-2017,19,Tools,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015495,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015496,24-08-2017,19,Food,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015497,24-08-2017,19,LifeStyle,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015498,24-08-2017,19,MEATS,16,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015499,24-08-2017,19,LifeStyle,11,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015500,24-08-2017,19,Food,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015501,24-08-2017,19,Tools,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015502,24-08-2017,19,POULTRY,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015503,24-08-2017,19,PREPARED FOODS,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015504,24-08-2017,19,PRODUCE,1,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015505,24-08-2017,19,Home,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015506,24-08-2017,19,Food,0,Guaranda,Bolivar,C,15,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015507,24-08-2017,2,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015508,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015509,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015510,24-08-2017,2,BEVERAGES,35,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015511,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015512,24-08-2017,2,BREAD/BAKERY,12,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015513,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015514,24-08-2017,2,CLEANING,10,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015515,24-08-2017,2,DAIRY,9,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015516,24-08-2017,2,Daily,9,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015517,24-08-2017,2,Daily,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015518,24-08-2017,2,FROZEN FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015519,24-08-2017,2,GROCERY I,55,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015520,24-08-2017,2,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015521,24-08-2017,2,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015522,24-08-2017,2,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015523,24-08-2017,2,Home,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015524,24-08-2017,2,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015525,24-08-2017,2,Home,7,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015526,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015527,24-08-2017,2,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015528,24-08-2017,2,LifeStyle,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015529,24-08-2017,2,Food,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015530,24-08-2017,2,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015531,24-08-2017,2,MEATS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015532,24-08-2017,2,LifeStyle,11,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015533,24-08-2017,2,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015534,24-08-2017,2,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015535,24-08-2017,2,POULTRY,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015536,24-08-2017,2,PREPARED FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015537,24-08-2017,2,PRODUCE,3,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015538,24-08-2017,2,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015539,24-08-2017,2,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015540,24-08-2017,20,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015541,24-08-2017,20,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015542,24-08-2017,20,LifeStyle,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015543,24-08-2017,20,BEVERAGES,20,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015544,24-08-2017,20,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015545,24-08-2017,20,BREAD/BAKERY,3,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015546,24-08-2017,20,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015547,24-08-2017,20,CLEANING,25,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015548,24-08-2017,20,DAIRY,8,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015549,24-08-2017,20,Daily,9,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015550,24-08-2017,20,Daily,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015551,24-08-2017,20,FROZEN FOODS,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015552,24-08-2017,20,GROCERY I,59,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015553,24-08-2017,20,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015554,24-08-2017,20,Tools,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015555,24-08-2017,20,Home,2,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015556,24-08-2017,20,Home,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015557,24-08-2017,20,Home,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015558,24-08-2017,20,Home,8,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015559,24-08-2017,20,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015560,24-08-2017,20,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015561,24-08-2017,20,LifeStyle,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015562,24-08-2017,20,Food,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015563,24-08-2017,20,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015564,24-08-2017,20,MEATS,25,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015565,24-08-2017,20,LifeStyle,13,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015566,24-08-2017,20,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015567,24-08-2017,20,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015568,24-08-2017,20,POULTRY,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015569,24-08-2017,20,PREPARED FOODS,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015570,24-08-2017,20,PRODUCE,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015571,24-08-2017,20,Home,5,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015572,24-08-2017,20,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015573,24-08-2017,21,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015574,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015575,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015576,24-08-2017,21,BEVERAGES,24,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015577,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015578,24-08-2017,21,BREAD/BAKERY,3,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015579,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015580,24-08-2017,21,CLEANING,23,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015581,24-08-2017,21,DAIRY,4,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015582,24-08-2017,21,Daily,10,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015583,24-08-2017,21,Daily,1,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015584,24-08-2017,21,FROZEN FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015585,24-08-2017,21,GROCERY I,52,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015586,24-08-2017,21,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015587,24-08-2017,21,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015588,24-08-2017,21,Home,1,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015589,24-08-2017,21,Home,2,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015590,24-08-2017,21,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015591,24-08-2017,21,Home,11,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015592,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015593,24-08-2017,21,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015594,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015595,24-08-2017,21,Food,3,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015596,24-08-2017,21,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015597,24-08-2017,21,MEATS,17,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015598,24-08-2017,21,LifeStyle,11,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015599,24-08-2017,21,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015600,24-08-2017,21,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015601,24-08-2017,21,POULTRY,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015602,24-08-2017,21,PREPARED FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015603,24-08-2017,21,PRODUCE,2,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015604,24-08-2017,21,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015605,24-08-2017,21,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015606,24-08-2017,22,Tools,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015607,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015608,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015609,24-08-2017,22,BEVERAGES,22,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015610,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015611,24-08-2017,22,BREAD/BAKERY,2,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015612,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015613,24-08-2017,22,CLEANING,16,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015614,24-08-2017,22,DAIRY,5,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015615,24-08-2017,22,Daily,7,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015616,24-08-2017,22,Daily,1,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015617,24-08-2017,22,FROZEN FOODS,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015618,24-08-2017,22,GROCERY I,58,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015619,24-08-2017,22,Food,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015620,24-08-2017,22,Tools,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015621,24-08-2017,22,Home,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015622,24-08-2017,22,Home,1,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015623,24-08-2017,22,Home,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015624,24-08-2017,22,Home,8,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015625,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015626,24-08-2017,22,Tools,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015627,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015628,24-08-2017,22,Food,1,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015629,24-08-2017,22,LifeStyle,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015630,24-08-2017,22,MEATS,13,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015631,24-08-2017,22,LifeStyle,6,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015632,24-08-2017,22,Food,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015633,24-08-2017,22,Tools,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015634,24-08-2017,22,POULTRY,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015635,24-08-2017,22,PREPARED FOODS,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015636,24-08-2017,22,PRODUCE,2,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015637,24-08-2017,22,Home,2,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015638,24-08-2017,22,Food,0,Puyo,Pastaza,C,7,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015639,24-08-2017,23,Tools,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015640,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015641,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015642,24-08-2017,23,BEVERAGES,27,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015643,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015644,24-08-2017,23,BREAD/BAKERY,9,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015645,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015646,24-08-2017,23,CLEANING,8,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015647,24-08-2017,23,DAIRY,8,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015648,24-08-2017,23,Daily,7,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015649,24-08-2017,23,Daily,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015650,24-08-2017,23,FROZEN FOODS,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015651,24-08-2017,23,GROCERY I,40,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015652,24-08-2017,23,Food,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015653,24-08-2017,23,Tools,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015654,24-08-2017,23,Home,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015655,24-08-2017,23,Home,1,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015656,24-08-2017,23,Home,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015657,24-08-2017,23,Home,4,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015658,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015659,24-08-2017,23,Tools,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015660,24-08-2017,23,LifeStyle,2,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015661,24-08-2017,23,Food,1,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015662,24-08-2017,23,LifeStyle,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015663,24-08-2017,23,MEATS,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015664,24-08-2017,23,LifeStyle,8,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015665,24-08-2017,23,Food,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015666,24-08-2017,23,Tools,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015667,24-08-2017,23,POULTRY,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015668,24-08-2017,23,PREPARED FOODS,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015669,24-08-2017,23,PRODUCE,3,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015670,24-08-2017,23,Home,0,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015671,24-08-2017,23,Food,1,Ambato,Tungurahua,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015672,24-08-2017,24,Tools,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015673,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015674,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015675,24-08-2017,24,BEVERAGES,31,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015676,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015677,24-08-2017,24,BREAD/BAKERY,12,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015678,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015679,24-08-2017,24,CLEANING,12,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015680,24-08-2017,24,DAIRY,14,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015681,24-08-2017,24,Daily,9,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015682,24-08-2017,24,Daily,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015683,24-08-2017,24,FROZEN FOODS,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015684,24-08-2017,24,GROCERY I,45,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015685,24-08-2017,24,Food,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015686,24-08-2017,24,Tools,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015687,24-08-2017,24,Home,1,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015688,24-08-2017,24,Home,3,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015689,24-08-2017,24,Home,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015690,24-08-2017,24,Home,5,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015691,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015692,24-08-2017,24,Tools,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015693,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015694,24-08-2017,24,Food,3,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015695,24-08-2017,24,LifeStyle,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015696,24-08-2017,24,MEATS,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015697,24-08-2017,24,LifeStyle,8,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015698,24-08-2017,24,Food,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015699,24-08-2017,24,Tools,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015700,24-08-2017,24,POULTRY,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015701,24-08-2017,24,PREPARED FOODS,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015702,24-08-2017,24,PRODUCE,1,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015703,24-08-2017,24,Home,0,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015704,24-08-2017,24,Food,1,Guayaquil,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015705,24-08-2017,25,Tools,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015706,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015707,24-08-2017,25,LifeStyle,1,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015708,24-08-2017,25,BEVERAGES,22,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015709,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015710,24-08-2017,25,BREAD/BAKERY,11,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015711,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015712,24-08-2017,25,CLEANING,7,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015713,24-08-2017,25,DAIRY,12,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015714,24-08-2017,25,Daily,8,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015715,24-08-2017,25,Daily,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015716,24-08-2017,25,FROZEN FOODS,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015717,24-08-2017,25,GROCERY I,32,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015718,24-08-2017,25,Food,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015719,24-08-2017,25,Tools,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015720,24-08-2017,25,Home,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015721,24-08-2017,25,Home,2,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015722,24-08-2017,25,Home,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015723,24-08-2017,25,Home,1,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015724,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015725,24-08-2017,25,Tools,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015726,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015727,24-08-2017,25,Food,2,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015728,24-08-2017,25,LifeStyle,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015729,24-08-2017,25,MEATS,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015730,24-08-2017,25,LifeStyle,3,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015731,24-08-2017,25,Food,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015732,24-08-2017,25,Tools,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015733,24-08-2017,25,POULTRY,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015734,24-08-2017,25,PREPARED FOODS,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015735,24-08-2017,25,PRODUCE,1,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015736,24-08-2017,25,Home,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015737,24-08-2017,25,Food,0,Salinas,Santa Elena,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015738,24-08-2017,26,Tools,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015739,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015740,24-08-2017,26,LifeStyle,1,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015741,24-08-2017,26,BEVERAGES,19,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015742,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015743,24-08-2017,26,BREAD/BAKERY,5,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015744,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015745,24-08-2017,26,CLEANING,7,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015746,24-08-2017,26,DAIRY,4,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015747,24-08-2017,26,Daily,1,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015748,24-08-2017,26,Daily,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015749,24-08-2017,26,FROZEN FOODS,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015750,24-08-2017,26,GROCERY I,32,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015751,24-08-2017,26,Food,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015752,24-08-2017,26,Tools,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015753,24-08-2017,26,Home,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015754,24-08-2017,26,Home,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015755,24-08-2017,26,Home,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015756,24-08-2017,26,Home,2,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015757,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015758,24-08-2017,26,Tools,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015759,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015760,24-08-2017,26,Food,3,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015761,24-08-2017,26,LifeStyle,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015762,24-08-2017,26,MEATS,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015763,24-08-2017,26,LifeStyle,4,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015764,24-08-2017,26,Food,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015765,24-08-2017,26,Tools,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015766,24-08-2017,26,POULTRY,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015767,24-08-2017,26,PREPARED FOODS,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015768,24-08-2017,26,PRODUCE,2,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015769,24-08-2017,26,Home,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015770,24-08-2017,26,Food,0,Guayaquil,Guayas,D,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015771,24-08-2017,27,Tools,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015772,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015773,24-08-2017,27,LifeStyle,1,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015774,24-08-2017,27,BEVERAGES,30,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015775,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015776,24-08-2017,27,BREAD/BAKERY,12,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015777,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015778,24-08-2017,27,CLEANING,10,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015779,24-08-2017,27,DAIRY,14,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015780,24-08-2017,27,Daily,7,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015781,24-08-2017,27,Daily,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015782,24-08-2017,27,FROZEN FOODS,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015783,24-08-2017,27,GROCERY I,52,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015784,24-08-2017,27,Food,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015785,24-08-2017,27,Tools,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015786,24-08-2017,27,Home,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015787,24-08-2017,27,Home,2,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015788,24-08-2017,27,Home,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015789,24-08-2017,27,Home,6,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015790,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015791,24-08-2017,27,Tools,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015792,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015793,24-08-2017,27,Food,3,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015794,24-08-2017,27,LifeStyle,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015795,24-08-2017,27,MEATS,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015796,24-08-2017,27,LifeStyle,5,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015797,24-08-2017,27,Food,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015798,24-08-2017,27,Tools,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015799,24-08-2017,27,POULTRY,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015800,24-08-2017,27,PREPARED FOODS,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015801,24-08-2017,27,PRODUCE,1,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015802,24-08-2017,27,Home,0,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015803,24-08-2017,27,Food,1,Daule,Guayas,D,1,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015804,24-08-2017,28,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015805,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015806,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015807,24-08-2017,28,BEVERAGES,29,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015808,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015809,24-08-2017,28,BREAD/BAKERY,3,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015810,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015811,24-08-2017,28,CLEANING,22,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015812,24-08-2017,28,DAIRY,9,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015813,24-08-2017,28,Daily,7,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015814,24-08-2017,28,Daily,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015815,24-08-2017,28,FROZEN FOODS,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015816,24-08-2017,28,GROCERY I,58,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015817,24-08-2017,28,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015818,24-08-2017,28,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015819,24-08-2017,28,Home,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015820,24-08-2017,28,Home,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015821,24-08-2017,28,Home,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015822,24-08-2017,28,Home,8,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015823,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015824,24-08-2017,28,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015825,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015826,24-08-2017,28,Food,2,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015827,24-08-2017,28,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015828,24-08-2017,28,MEATS,23,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015829,24-08-2017,28,LifeStyle,8,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015830,24-08-2017,28,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015831,24-08-2017,28,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015832,24-08-2017,28,POULTRY,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015833,24-08-2017,28,PREPARED FOODS,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015834,24-08-2017,28,PRODUCE,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015835,24-08-2017,28,Home,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015836,24-08-2017,28,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015837,24-08-2017,29,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015838,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015839,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015840,24-08-2017,29,BEVERAGES,26,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015841,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015842,24-08-2017,29,BREAD/BAKERY,3,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015843,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015844,24-08-2017,29,CLEANING,24,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015845,24-08-2017,29,DAIRY,8,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015846,24-08-2017,29,Daily,7,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015847,24-08-2017,29,Daily,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015848,24-08-2017,29,FROZEN FOODS,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015849,24-08-2017,29,GROCERY I,62,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015850,24-08-2017,29,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015851,24-08-2017,29,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015852,24-08-2017,29,Home,2,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015853,24-08-2017,29,Home,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015854,24-08-2017,29,Home,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015855,24-08-2017,29,Home,10,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015856,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015857,24-08-2017,29,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015858,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015859,24-08-2017,29,Food,3,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015860,24-08-2017,29,LifeStyle,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015861,24-08-2017,29,MEATS,21,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015862,24-08-2017,29,LifeStyle,10,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015863,24-08-2017,29,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015864,24-08-2017,29,Tools,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015865,24-08-2017,29,POULTRY,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015866,24-08-2017,29,PREPARED FOODS,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015867,24-08-2017,29,PRODUCE,1,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015868,24-08-2017,29,Home,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015869,24-08-2017,29,Food,0,Guayaquil,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015870,24-08-2017,3,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015871,24-08-2017,3,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015872,24-08-2017,3,LifeStyle,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015873,24-08-2017,3,BEVERAGES,33,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015874,24-08-2017,3,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015875,24-08-2017,3,BREAD/BAKERY,10,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015876,24-08-2017,3,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015877,24-08-2017,3,CLEANING,13,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015878,24-08-2017,3,DAIRY,14,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015879,24-08-2017,3,Daily,10,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015880,24-08-2017,3,Daily,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015881,24-08-2017,3,FROZEN FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015882,24-08-2017,3,GROCERY I,64,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015883,24-08-2017,3,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015884,24-08-2017,3,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015885,24-08-2017,3,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015886,24-08-2017,3,Home,3,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015887,24-08-2017,3,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015888,24-08-2017,3,Home,9,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015889,24-08-2017,3,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015890,24-08-2017,3,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015891,24-08-2017,3,LifeStyle,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015892,24-08-2017,3,Food,4,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015893,24-08-2017,3,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015894,24-08-2017,3,MEATS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015895,24-08-2017,3,LifeStyle,15,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015896,24-08-2017,3,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015897,24-08-2017,3,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015898,24-08-2017,3,POULTRY,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015899,24-08-2017,3,PREPARED FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015900,24-08-2017,3,PRODUCE,3,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015901,24-08-2017,3,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015902,24-08-2017,3,Food,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015903,24-08-2017,30,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015904,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015905,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015906,24-08-2017,30,BEVERAGES,22,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015907,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015908,24-08-2017,30,BREAD/BAKERY,3,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015909,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015910,24-08-2017,30,CLEANING,13,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015911,24-08-2017,30,DAIRY,7,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015912,24-08-2017,30,Daily,3,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015913,24-08-2017,30,Daily,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015914,24-08-2017,30,FROZEN FOODS,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015915,24-08-2017,30,GROCERY I,43,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015916,24-08-2017,30,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015917,24-08-2017,30,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015918,24-08-2017,30,Home,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015919,24-08-2017,30,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015920,24-08-2017,30,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015921,24-08-2017,30,Home,6,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015922,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015923,24-08-2017,30,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015924,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015925,24-08-2017,30,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015926,24-08-2017,30,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015927,24-08-2017,30,MEATS,19,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015928,24-08-2017,30,LifeStyle,5,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015929,24-08-2017,30,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015930,24-08-2017,30,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015931,24-08-2017,30,POULTRY,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015932,24-08-2017,30,PREPARED FOODS,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015933,24-08-2017,30,PRODUCE,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015934,24-08-2017,30,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015935,24-08-2017,30,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015936,24-08-2017,31,Tools,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015937,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015938,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015939,24-08-2017,31,BEVERAGES,24,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015940,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015941,24-08-2017,31,BREAD/BAKERY,3,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015942,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015943,24-08-2017,31,CLEANING,22,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015944,24-08-2017,31,DAIRY,5,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015945,24-08-2017,31,Daily,7,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015946,24-08-2017,31,Daily,1,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015947,24-08-2017,31,FROZEN FOODS,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015948,24-08-2017,31,GROCERY I,62,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015949,24-08-2017,31,Food,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015950,24-08-2017,31,Tools,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015951,24-08-2017,31,Home,1,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015952,24-08-2017,31,Home,1,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015953,24-08-2017,31,Home,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015954,24-08-2017,31,Home,13,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015955,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015956,24-08-2017,31,Tools,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015957,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015958,24-08-2017,31,Food,2,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015959,24-08-2017,31,LifeStyle,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015960,24-08-2017,31,MEATS,23,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015961,24-08-2017,31,LifeStyle,11,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015962,24-08-2017,31,Food,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015963,24-08-2017,31,Tools,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015964,24-08-2017,31,POULTRY,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015965,24-08-2017,31,PREPARED FOODS,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015966,24-08-2017,31,PRODUCE,1,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015967,24-08-2017,31,Home,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015968,24-08-2017,31,Food,0,Babahoyo,Los Rios,B,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015969,24-08-2017,32,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015970,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015971,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015972,24-08-2017,32,BEVERAGES,22,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015973,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015974,24-08-2017,32,BREAD/BAKERY,2,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015975,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015976,24-08-2017,32,CLEANING,13,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015977,24-08-2017,32,DAIRY,2,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015978,24-08-2017,32,Daily,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015979,24-08-2017,32,Daily,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015980,24-08-2017,32,FROZEN FOODS,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015981,24-08-2017,32,GROCERY I,48,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015982,24-08-2017,32,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015983,24-08-2017,32,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015984,24-08-2017,32,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015985,24-08-2017,32,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015986,24-08-2017,32,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015987,24-08-2017,32,Home,4,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015988,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015989,24-08-2017,32,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015990,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015991,24-08-2017,32,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015992,24-08-2017,32,LifeStyle,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015993,24-08-2017,32,MEATS,18,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015994,24-08-2017,32,LifeStyle,6,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015995,24-08-2017,32,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015996,24-08-2017,32,Tools,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015997,24-08-2017,32,POULTRY,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015998,24-08-2017,32,PREPARED FOODS,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3015999,24-08-2017,32,PRODUCE,1,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016000,24-08-2017,32,Home,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016001,24-08-2017,32,Food,0,Guayaquil,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016002,24-08-2017,33,Tools,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016003,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016004,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016005,24-08-2017,33,BEVERAGES,20,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016006,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016007,24-08-2017,33,BREAD/BAKERY,3,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016008,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016009,24-08-2017,33,CLEANING,16,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016010,24-08-2017,33,DAIRY,3,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016011,24-08-2017,33,Daily,4,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016012,24-08-2017,33,Daily,1,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016013,24-08-2017,33,FROZEN FOODS,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016014,24-08-2017,33,GROCERY I,51,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016015,24-08-2017,33,Food,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016016,24-08-2017,33,Tools,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016017,24-08-2017,33,Home,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016018,24-08-2017,33,Home,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016019,24-08-2017,33,Home,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016020,24-08-2017,33,Home,7,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016021,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016022,24-08-2017,33,Tools,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016023,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016024,24-08-2017,33,Food,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016025,24-08-2017,33,LifeStyle,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016026,24-08-2017,33,MEATS,22,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016027,24-08-2017,33,LifeStyle,12,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016028,24-08-2017,33,Food,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016029,24-08-2017,33,Tools,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016030,24-08-2017,33,POULTRY,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016031,24-08-2017,33,PREPARED FOODS,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016032,24-08-2017,33,PRODUCE,1,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016033,24-08-2017,33,Home,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016034,24-08-2017,33,Food,0,Quevedo,Los Rios,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016035,24-08-2017,34,Tools,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016036,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016037,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016038,24-08-2017,34,BEVERAGES,21,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016039,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016040,24-08-2017,34,BREAD/BAKERY,3,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016041,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016042,24-08-2017,34,CLEANING,22,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016043,24-08-2017,34,DAIRY,5,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016044,24-08-2017,34,Daily,5,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016045,24-08-2017,34,Daily,1,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016046,24-08-2017,34,FROZEN FOODS,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016047,24-08-2017,34,GROCERY I,60,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016048,24-08-2017,34,Food,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016049,24-08-2017,34,Tools,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016050,24-08-2017,34,Home,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016051,24-08-2017,34,Home,2,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016052,24-08-2017,34,Home,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016053,24-08-2017,34,Home,5,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016054,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016055,24-08-2017,34,Tools,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016056,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016057,24-08-2017,34,Food,3,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016058,24-08-2017,34,LifeStyle,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016059,24-08-2017,34,MEATS,22,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016060,24-08-2017,34,LifeStyle,13,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016061,24-08-2017,34,Food,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016062,24-08-2017,34,Tools,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016063,24-08-2017,34,POULTRY,1,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016064,24-08-2017,34,PREPARED FOODS,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016065,24-08-2017,34,PRODUCE,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016066,24-08-2017,34,Home,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016067,24-08-2017,34,Food,0,Guayaquil,Guayas,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016068,24-08-2017,35,Tools,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016069,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016070,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016071,24-08-2017,35,BEVERAGES,21,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016072,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016073,24-08-2017,35,BREAD/BAKERY,1,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016074,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016075,24-08-2017,35,CLEANING,17,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016076,24-08-2017,35,DAIRY,6,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016077,24-08-2017,35,Daily,3,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016078,24-08-2017,35,Daily,1,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016079,24-08-2017,35,FROZEN FOODS,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016080,24-08-2017,35,GROCERY I,51,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016081,24-08-2017,35,Food,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016082,24-08-2017,35,Tools,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016083,24-08-2017,35,Home,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016084,24-08-2017,35,Home,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016085,24-08-2017,35,Home,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016086,24-08-2017,35,Home,6,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016087,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016088,24-08-2017,35,Tools,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016089,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016090,24-08-2017,35,Food,1,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016091,24-08-2017,35,LifeStyle,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016092,24-08-2017,35,MEATS,20,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016093,24-08-2017,35,LifeStyle,6,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016094,24-08-2017,35,Food,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016095,24-08-2017,35,Tools,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016096,24-08-2017,35,POULTRY,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016097,24-08-2017,35,PREPARED FOODS,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016098,24-08-2017,35,PRODUCE,1,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016099,24-08-2017,35,Home,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016100,24-08-2017,35,Food,0,Playas,Guayas,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016101,24-08-2017,36,Tools,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016102,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016103,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016104,24-08-2017,36,BEVERAGES,27,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016105,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016106,24-08-2017,36,BREAD/BAKERY,2,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016107,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016108,24-08-2017,36,CLEANING,16,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016109,24-08-2017,36,DAIRY,5,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016110,24-08-2017,36,Daily,6,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016111,24-08-2017,36,Daily,1,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016112,24-08-2017,36,FROZEN FOODS,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016113,24-08-2017,36,GROCERY I,58,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016114,24-08-2017,36,Food,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016115,24-08-2017,36,Tools,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016116,24-08-2017,36,Home,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016117,24-08-2017,36,Home,1,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016118,24-08-2017,36,Home,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016119,24-08-2017,36,Home,7,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016120,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016121,24-08-2017,36,Tools,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016122,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016123,24-08-2017,36,Food,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016124,24-08-2017,36,LifeStyle,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016125,24-08-2017,36,MEATS,22,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016126,24-08-2017,36,LifeStyle,11,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016127,24-08-2017,36,Food,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016128,24-08-2017,36,Tools,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016129,24-08-2017,36,POULTRY,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016130,24-08-2017,36,PREPARED FOODS,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016131,24-08-2017,36,PRODUCE,1,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016132,24-08-2017,36,Home,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016133,24-08-2017,36,Food,0,Libertad,Guayas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016134,24-08-2017,37,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016135,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016136,24-08-2017,37,LifeStyle,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016137,24-08-2017,37,BEVERAGES,35,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016138,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016139,24-08-2017,37,BREAD/BAKERY,12,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016140,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016141,24-08-2017,37,CLEANING,10,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016142,24-08-2017,37,DAIRY,8,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016143,24-08-2017,37,Daily,10,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016144,24-08-2017,37,Daily,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016145,24-08-2017,37,FROZEN FOODS,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016146,24-08-2017,37,GROCERY I,51,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016147,24-08-2017,37,Food,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016148,24-08-2017,37,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016149,24-08-2017,37,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016150,24-08-2017,37,Home,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016151,24-08-2017,37,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016152,24-08-2017,37,Home,8,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016153,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016154,24-08-2017,37,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016155,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016156,24-08-2017,37,Food,4,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016157,24-08-2017,37,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016158,24-08-2017,37,MEATS,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016159,24-08-2017,37,LifeStyle,11,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016160,24-08-2017,37,Food,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016161,24-08-2017,37,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016162,24-08-2017,37,POULTRY,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016163,24-08-2017,37,PREPARED FOODS,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016164,24-08-2017,37,PRODUCE,2,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016165,24-08-2017,37,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016166,24-08-2017,37,Food,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016167,24-08-2017,38,Tools,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016168,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016169,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016170,24-08-2017,38,BEVERAGES,35,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016171,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016172,24-08-2017,38,BREAD/BAKERY,8,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016173,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016174,24-08-2017,38,CLEANING,11,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016175,24-08-2017,38,DAIRY,11,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016176,24-08-2017,38,Daily,9,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016177,24-08-2017,38,Daily,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016178,24-08-2017,38,FROZEN FOODS,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016179,24-08-2017,38,GROCERY I,60,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016180,24-08-2017,38,Food,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016181,24-08-2017,38,Tools,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016182,24-08-2017,38,Home,1,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016183,24-08-2017,38,Home,1,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016184,24-08-2017,38,Home,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016185,24-08-2017,38,Home,5,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016186,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016187,24-08-2017,38,Tools,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016188,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016189,24-08-2017,38,Food,3,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016190,24-08-2017,38,LifeStyle,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016191,24-08-2017,38,MEATS,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016192,24-08-2017,38,LifeStyle,12,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016193,24-08-2017,38,Food,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016194,24-08-2017,38,Tools,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016195,24-08-2017,38,POULTRY,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016196,24-08-2017,38,PREPARED FOODS,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016197,24-08-2017,38,PRODUCE,1,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016198,24-08-2017,38,Home,0,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016199,24-08-2017,38,Food,1,Loja,Loja,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016200,24-08-2017,39,Tools,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016201,24-08-2017,39,LifeStyle,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016202,24-08-2017,39,LifeStyle,1,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016203,24-08-2017,39,BEVERAGES,26,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016204,24-08-2017,39,LifeStyle,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016205,24-08-2017,39,BREAD/BAKERY,3,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016206,24-08-2017,39,LifeStyle,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016207,24-08-2017,39,CLEANING,22,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016208,24-08-2017,39,DAIRY,10,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016209,24-08-2017,39,Daily,8,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016210,24-08-2017,39,Daily,1,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016211,24-08-2017,39,FROZEN FOODS,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016212,24-08-2017,39,GROCERY I,57,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016213,24-08-2017,39,Food,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016214,24-08-2017,39,Tools,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016215,24-08-2017,39,Home,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016216,24-08-2017,39,Home,2,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016217,24-08-2017,39,Home,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016218,24-08-2017,39,Home,11,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016219,24-08-2017,39,LifeStyle,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016220,24-08-2017,39,Tools,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016221,24-08-2017,39,LifeStyle,2,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016222,24-08-2017,39,Food,2,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016223,24-08-2017,39,LifeStyle,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016224,24-08-2017,39,MEATS,19,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016225,24-08-2017,39,LifeStyle,10,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016226,24-08-2017,39,Food,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016227,24-08-2017,39,Tools,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016228,24-08-2017,39,POULTRY,1,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016229,24-08-2017,39,PREPARED FOODS,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016230,24-08-2017,39,PRODUCE,1,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016231,24-08-2017,39,Home,2,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016232,24-08-2017,39,Food,0,Cuenca,Azuay,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016233,24-08-2017,4,Tools,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016234,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016235,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016236,24-08-2017,4,BEVERAGES,26,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016237,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016238,24-08-2017,4,BREAD/BAKERY,12,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016239,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016240,24-08-2017,4,CLEANING,12,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016241,24-08-2017,4,DAIRY,8,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016242,24-08-2017,4,Daily,10,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016243,24-08-2017,4,Daily,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016244,24-08-2017,4,FROZEN FOODS,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016245,24-08-2017,4,GROCERY I,47,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016246,24-08-2017,4,Food,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016247,24-08-2017,4,Tools,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016248,24-08-2017,4,Home,1,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016249,24-08-2017,4,Home,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016250,24-08-2017,4,Home,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016251,24-08-2017,4,Home,6,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016252,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016253,24-08-2017,4,Tools,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016254,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016255,24-08-2017,4,Food,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016256,24-08-2017,4,LifeStyle,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016257,24-08-2017,4,MEATS,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016258,24-08-2017,4,LifeStyle,8,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016259,24-08-2017,4,Food,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016260,24-08-2017,4,Tools,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016261,24-08-2017,4,POULTRY,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016262,24-08-2017,4,PREPARED FOODS,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016263,24-08-2017,4,PRODUCE,2,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016264,24-08-2017,4,Home,0,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016265,24-08-2017,4,Food,1,Quito,Pichincha,D,9,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016266,24-08-2017,40,Tools,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016267,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016268,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016269,24-08-2017,40,BEVERAGES,21,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016270,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016271,24-08-2017,40,BREAD/BAKERY,3,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016272,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016273,24-08-2017,40,CLEANING,16,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016274,24-08-2017,40,DAIRY,5,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016275,24-08-2017,40,Daily,7,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016276,24-08-2017,40,Daily,1,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016277,24-08-2017,40,FROZEN FOODS,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016278,24-08-2017,40,GROCERY I,63,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016279,24-08-2017,40,Food,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016280,24-08-2017,40,Tools,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016281,24-08-2017,40,Home,1,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016282,24-08-2017,40,Home,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016283,24-08-2017,40,Home,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016284,24-08-2017,40,Home,10,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016285,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016286,24-08-2017,40,Tools,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016287,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016288,24-08-2017,40,Food,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016289,24-08-2017,40,LifeStyle,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016290,24-08-2017,40,MEATS,10,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016291,24-08-2017,40,LifeStyle,8,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016292,24-08-2017,40,Food,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016293,24-08-2017,40,Tools,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016294,24-08-2017,40,POULTRY,1,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016295,24-08-2017,40,PREPARED FOODS,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016296,24-08-2017,40,PRODUCE,2,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016297,24-08-2017,40,Home,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016298,24-08-2017,40,Food,0,Machala,El Oro,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016299,24-08-2017,41,Tools,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016300,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016301,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016302,24-08-2017,41,BEVERAGES,32,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016303,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016304,24-08-2017,41,BREAD/BAKERY,10,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016305,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016306,24-08-2017,41,CLEANING,14,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016307,24-08-2017,41,DAIRY,12,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016308,24-08-2017,41,Daily,8,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016309,24-08-2017,41,Daily,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016310,24-08-2017,41,FROZEN FOODS,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016311,24-08-2017,41,GROCERY I,53,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016312,24-08-2017,41,Food,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016313,24-08-2017,41,Tools,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016314,24-08-2017,41,Home,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016315,24-08-2017,41,Home,1,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016316,24-08-2017,41,Home,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016317,24-08-2017,41,Home,4,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016318,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016319,24-08-2017,41,Tools,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016320,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016321,24-08-2017,41,Food,1,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016322,24-08-2017,41,LifeStyle,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016323,24-08-2017,41,MEATS,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016324,24-08-2017,41,LifeStyle,6,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016325,24-08-2017,41,Food,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016326,24-08-2017,41,Tools,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016327,24-08-2017,41,POULTRY,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016328,24-08-2017,41,PREPARED FOODS,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016329,24-08-2017,41,PRODUCE,2,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016330,24-08-2017,41,Home,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016331,24-08-2017,41,Food,0,Machala,El Oro,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016332,24-08-2017,42,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016333,24-08-2017,42,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016334,24-08-2017,42,LifeStyle,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016335,24-08-2017,42,BEVERAGES,30,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016336,24-08-2017,42,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016337,24-08-2017,42,BREAD/BAKERY,10,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016338,24-08-2017,42,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016339,24-08-2017,42,CLEANING,12,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016340,24-08-2017,42,DAIRY,13,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016341,24-08-2017,42,Daily,9,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016342,24-08-2017,42,Daily,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016343,24-08-2017,42,FROZEN FOODS,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016344,24-08-2017,42,GROCERY I,50,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016345,24-08-2017,42,Food,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016346,24-08-2017,42,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016347,24-08-2017,42,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016348,24-08-2017,42,Home,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016349,24-08-2017,42,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016350,24-08-2017,42,Home,5,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016351,24-08-2017,42,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016352,24-08-2017,42,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016353,24-08-2017,42,LifeStyle,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016354,24-08-2017,42,Food,3,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016355,24-08-2017,42,LifeStyle,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016356,24-08-2017,42,MEATS,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016357,24-08-2017,42,LifeStyle,6,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016358,24-08-2017,42,Food,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016359,24-08-2017,42,Tools,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016360,24-08-2017,42,POULTRY,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016361,24-08-2017,42,PREPARED FOODS,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016362,24-08-2017,42,PRODUCE,2,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016363,24-08-2017,42,Home,0,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016364,24-08-2017,42,Food,1,Cuenca,Azuay,D,2,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016365,24-08-2017,43,Tools,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016366,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016367,24-08-2017,43,LifeStyle,1,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016368,24-08-2017,43,BEVERAGES,26,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016369,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016370,24-08-2017,43,BREAD/BAKERY,3,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016371,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016372,24-08-2017,43,CLEANING,19,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016373,24-08-2017,43,DAIRY,9,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016374,24-08-2017,43,Daily,7,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016375,24-08-2017,43,Daily,1,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016376,24-08-2017,43,FROZEN FOODS,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016377,24-08-2017,43,GROCERY I,58,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016378,24-08-2017,43,Food,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016379,24-08-2017,43,Tools,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016380,24-08-2017,43,Home,1,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016381,24-08-2017,43,Home,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016382,24-08-2017,43,Home,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016383,24-08-2017,43,Home,12,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016384,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016385,24-08-2017,43,Tools,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016386,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016387,24-08-2017,43,Food,2,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016388,24-08-2017,43,LifeStyle,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016389,24-08-2017,43,MEATS,20,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016390,24-08-2017,43,LifeStyle,13,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016391,24-08-2017,43,Food,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016392,24-08-2017,43,Tools,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016393,24-08-2017,43,POULTRY,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016394,24-08-2017,43,PREPARED FOODS,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016395,24-08-2017,43,PRODUCE,1,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016396,24-08-2017,43,Home,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016397,24-08-2017,43,Food,0,Esmeraldas,Esmeraldas,E,10,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016398,24-08-2017,44,Tools,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016399,24-08-2017,44,LifeStyle,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016400,24-08-2017,44,LifeStyle,1,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016401,24-08-2017,44,BEVERAGES,44,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016402,24-08-2017,44,LifeStyle,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016403,24-08-2017,44,BREAD/BAKERY,14,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016404,24-08-2017,44,LifeStyle,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016405,24-08-2017,44,CLEANING,16,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016406,24-08-2017,44,DAIRY,14,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016407,24-08-2017,44,Daily,11,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016408,24-08-2017,44,Daily,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016409,24-08-2017,44,FROZEN FOODS,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016410,24-08-2017,44,GROCERY I,64,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016411,24-08-2017,44,Food,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016412,24-08-2017,44,Tools,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016413,24-08-2017,44,Home,2,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016414,24-08-2017,44,Home,3,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016415,24-08-2017,44,Home,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016416,24-08-2017,44,Home,8,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016417,24-08-2017,44,LifeStyle,5,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016418,24-08-2017,44,Tools,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016419,24-08-2017,44,LifeStyle,6,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016420,24-08-2017,44,Food,6,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016421,24-08-2017,44,LifeStyle,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016422,24-08-2017,44,MEATS,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016423,24-08-2017,44,LifeStyle,20,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016424,24-08-2017,44,Food,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016425,24-08-2017,44,Tools,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016426,24-08-2017,44,POULTRY,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016427,24-08-2017,44,PREPARED FOODS,0,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016428,24-08-2017,44,PRODUCE,4,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016429,24-08-2017,44,Home,12,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016430,24-08-2017,44,Food,1,Quito,Pichincha,A,5,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016431,24-08-2017,45,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016432,24-08-2017,45,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016433,24-08-2017,45,LifeStyle,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016434,24-08-2017,45,BEVERAGES,39,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016435,24-08-2017,45,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016436,24-08-2017,45,BREAD/BAKERY,13,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016437,24-08-2017,45,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016438,24-08-2017,45,CLEANING,14,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016439,24-08-2017,45,DAIRY,13,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016440,24-08-2017,45,Daily,10,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016441,24-08-2017,45,Daily,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016442,24-08-2017,45,FROZEN FOODS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016443,24-08-2017,45,GROCERY I,64,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016444,24-08-2017,45,Food,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016445,24-08-2017,45,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016446,24-08-2017,45,Home,2,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016447,24-08-2017,45,Home,2,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016448,24-08-2017,45,Home,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016449,24-08-2017,45,Home,8,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016450,24-08-2017,45,LifeStyle,6,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016451,24-08-2017,45,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016452,24-08-2017,45,LifeStyle,4,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016453,24-08-2017,45,Food,5,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016454,24-08-2017,45,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016455,24-08-2017,45,MEATS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016456,24-08-2017,45,LifeStyle,18,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016457,24-08-2017,45,Food,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016458,24-08-2017,45,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016459,24-08-2017,45,POULTRY,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016460,24-08-2017,45,PREPARED FOODS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016461,24-08-2017,45,PRODUCE,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016462,24-08-2017,45,Home,12,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016463,24-08-2017,45,Food,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016464,24-08-2017,46,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016465,24-08-2017,46,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016466,24-08-2017,46,LifeStyle,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016467,24-08-2017,46,BEVERAGES,35,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016468,24-08-2017,46,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016469,24-08-2017,46,BREAD/BAKERY,13,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016470,24-08-2017,46,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016471,24-08-2017,46,CLEANING,17,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016472,24-08-2017,46,DAIRY,13,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016473,24-08-2017,46,Daily,9,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016474,24-08-2017,46,Daily,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016475,24-08-2017,46,FROZEN FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016476,24-08-2017,46,GROCERY I,59,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016477,24-08-2017,46,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016478,24-08-2017,46,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016479,24-08-2017,46,Home,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016480,24-08-2017,46,Home,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016481,24-08-2017,46,Home,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016482,24-08-2017,46,Home,8,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016483,24-08-2017,46,LifeStyle,4,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016484,24-08-2017,46,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016485,24-08-2017,46,LifeStyle,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016486,24-08-2017,46,Food,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016487,24-08-2017,46,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016488,24-08-2017,46,MEATS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016489,24-08-2017,46,LifeStyle,10,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016490,24-08-2017,46,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016491,24-08-2017,46,Tools,2,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016492,24-08-2017,46,POULTRY,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016493,24-08-2017,46,PREPARED FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016494,24-08-2017,46,PRODUCE,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016495,24-08-2017,46,Home,13,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016496,24-08-2017,46,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016497,24-08-2017,47,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016498,24-08-2017,47,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016499,24-08-2017,47,LifeStyle,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016500,24-08-2017,47,BEVERAGES,34,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016501,24-08-2017,47,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016502,24-08-2017,47,BREAD/BAKERY,12,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016503,24-08-2017,47,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016504,24-08-2017,47,CLEANING,16,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016505,24-08-2017,47,DAIRY,9,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016506,24-08-2017,47,Daily,9,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016507,24-08-2017,47,Daily,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016508,24-08-2017,47,FROZEN FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016509,24-08-2017,47,GROCERY I,59,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016510,24-08-2017,47,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016511,24-08-2017,47,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016512,24-08-2017,47,Home,2,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016513,24-08-2017,47,Home,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016514,24-08-2017,47,Home,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016515,24-08-2017,47,Home,7,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016516,24-08-2017,47,LifeStyle,8,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016517,24-08-2017,47,Tools,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016518,24-08-2017,47,LifeStyle,6,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016519,24-08-2017,47,Food,4,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016520,24-08-2017,47,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016521,24-08-2017,47,MEATS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016522,24-08-2017,47,LifeStyle,14,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016523,24-08-2017,47,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016524,24-08-2017,47,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016525,24-08-2017,47,POULTRY,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016526,24-08-2017,47,PREPARED FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016527,24-08-2017,47,PRODUCE,2,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016528,24-08-2017,47,Home,12,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016529,24-08-2017,47,Food,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016530,24-08-2017,48,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016531,24-08-2017,48,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016532,24-08-2017,48,LifeStyle,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016533,24-08-2017,48,BEVERAGES,37,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016534,24-08-2017,48,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016535,24-08-2017,48,BREAD/BAKERY,12,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016536,24-08-2017,48,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016537,24-08-2017,48,CLEANING,19,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016538,24-08-2017,48,DAIRY,12,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016539,24-08-2017,48,Daily,9,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016540,24-08-2017,48,Daily,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016541,24-08-2017,48,FROZEN FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016542,24-08-2017,48,GROCERY I,63,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016543,24-08-2017,48,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016544,24-08-2017,48,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016545,24-08-2017,48,Home,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016546,24-08-2017,48,Home,2,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016547,24-08-2017,48,Home,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016548,24-08-2017,48,Home,8,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016549,24-08-2017,48,LifeStyle,6,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016550,24-08-2017,48,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016551,24-08-2017,48,LifeStyle,2,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016552,24-08-2017,48,Food,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016553,24-08-2017,48,LifeStyle,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016554,24-08-2017,48,MEATS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016555,24-08-2017,48,LifeStyle,14,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016556,24-08-2017,48,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016557,24-08-2017,48,Tools,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016558,24-08-2017,48,POULTRY,1,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016559,24-08-2017,48,PREPARED FOODS,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016560,24-08-2017,48,PRODUCE,3,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016561,24-08-2017,48,Home,12,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016562,24-08-2017,48,Food,0,Quito,Pichincha,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016563,24-08-2017,49,Tools,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016564,24-08-2017,49,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016565,24-08-2017,49,LifeStyle,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016566,24-08-2017,49,BEVERAGES,33,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016567,24-08-2017,49,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016568,24-08-2017,49,BREAD/BAKERY,14,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016569,24-08-2017,49,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016570,24-08-2017,49,CLEANING,16,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016571,24-08-2017,49,DAIRY,13,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016572,24-08-2017,49,Daily,11,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016573,24-08-2017,49,Daily,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016574,24-08-2017,49,FROZEN FOODS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016575,24-08-2017,49,GROCERY I,53,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016576,24-08-2017,49,Food,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016577,24-08-2017,49,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016578,24-08-2017,49,Home,2,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016579,24-08-2017,49,Home,3,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016580,24-08-2017,49,Home,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016581,24-08-2017,49,Home,9,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016582,24-08-2017,49,LifeStyle,4,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016583,24-08-2017,49,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016584,24-08-2017,49,LifeStyle,3,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016585,24-08-2017,49,Food,3,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016586,24-08-2017,49,LifeStyle,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016587,24-08-2017,49,MEATS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016588,24-08-2017,49,LifeStyle,11,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016589,24-08-2017,49,Food,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016590,24-08-2017,49,Tools,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016591,24-08-2017,49,POULTRY,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016592,24-08-2017,49,PREPARED FOODS,0,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016593,24-08-2017,49,PRODUCE,3,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016594,24-08-2017,49,Home,12,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016595,24-08-2017,49,Food,1,Quito,Pichincha,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016596,24-08-2017,5,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016597,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016598,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016599,24-08-2017,5,BEVERAGES,29,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016600,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016601,24-08-2017,5,BREAD/BAKERY,9,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016602,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016603,24-08-2017,5,CLEANING,13,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016604,24-08-2017,5,DAIRY,10,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016605,24-08-2017,5,Daily,10,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016606,24-08-2017,5,Daily,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016607,24-08-2017,5,FROZEN FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016608,24-08-2017,5,GROCERY I,50,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016609,24-08-2017,5,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016610,24-08-2017,5,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016611,24-08-2017,5,Home,1,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016612,24-08-2017,5,Home,1,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016613,24-08-2017,5,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016614,24-08-2017,5,Home,3,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016615,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016616,24-08-2017,5,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016617,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016618,24-08-2017,5,Food,4,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016619,24-08-2017,5,LifeStyle,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016620,24-08-2017,5,MEATS,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016621,24-08-2017,5,LifeStyle,8,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016622,24-08-2017,5,Food,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016623,24-08-2017,5,Tools,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016624,24-08-2017,5,POULTRY,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016625,24-08-2017,5,PREPARED FOODS,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016626,24-08-2017,5,PRODUCE,1,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016627,24-08-2017,5,Home,0,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016628,24-08-2017,5,Food,1,Santo Domingo,Santo Domingo de los Tsachilas,D,4,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016629,24-08-2017,50,Tools,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016630,24-08-2017,50,LifeStyle,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016631,24-08-2017,50,LifeStyle,1,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016632,24-08-2017,50,BEVERAGES,28,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016633,24-08-2017,50,LifeStyle,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016634,24-08-2017,50,BREAD/BAKERY,11,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016635,24-08-2017,50,LifeStyle,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016636,24-08-2017,50,CLEANING,13,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016637,24-08-2017,50,DAIRY,13,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016638,24-08-2017,50,Daily,9,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016639,24-08-2017,50,Daily,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016640,24-08-2017,50,FROZEN FOODS,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016641,24-08-2017,50,GROCERY I,48,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016642,24-08-2017,50,Food,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016643,24-08-2017,50,Tools,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016644,24-08-2017,50,Home,1,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016645,24-08-2017,50,Home,2,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016646,24-08-2017,50,Home,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016647,24-08-2017,50,Home,7,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016648,24-08-2017,50,LifeStyle,2,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016649,24-08-2017,50,Tools,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016650,24-08-2017,50,LifeStyle,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016651,24-08-2017,50,Food,5,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016652,24-08-2017,50,LifeStyle,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016653,24-08-2017,50,MEATS,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016654,24-08-2017,50,LifeStyle,12,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016655,24-08-2017,50,Food,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016656,24-08-2017,50,Tools,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016657,24-08-2017,50,POULTRY,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016658,24-08-2017,50,PREPARED FOODS,0,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016659,24-08-2017,50,PRODUCE,2,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016660,24-08-2017,50,Home,13,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016661,24-08-2017,50,Food,1,Ambato,Tungurahua,A,14,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016662,24-08-2017,51,Tools,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016663,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016664,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016665,24-08-2017,51,BEVERAGES,26,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016666,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016667,24-08-2017,51,BREAD/BAKERY,10,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016668,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016669,24-08-2017,51,CLEANING,8,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016670,24-08-2017,51,DAIRY,13,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016671,24-08-2017,51,Daily,8,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016672,24-08-2017,51,Daily,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016673,24-08-2017,51,FROZEN FOODS,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016674,24-08-2017,51,GROCERY I,41,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016675,24-08-2017,51,Food,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016676,24-08-2017,51,Tools,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016677,24-08-2017,51,Home,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016678,24-08-2017,51,Home,1,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016679,24-08-2017,51,Home,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016680,24-08-2017,51,Home,4,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016681,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016682,24-08-2017,51,Tools,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016683,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016684,24-08-2017,51,Food,2,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016685,24-08-2017,51,LifeStyle,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016686,24-08-2017,51,MEATS,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016687,24-08-2017,51,LifeStyle,7,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016688,24-08-2017,51,Food,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016689,24-08-2017,51,Tools,2,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016690,24-08-2017,51,POULTRY,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016691,24-08-2017,51,PREPARED FOODS,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016692,24-08-2017,51,PRODUCE,2,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016693,24-08-2017,51,Home,0,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016694,24-08-2017,51,Food,1,Guayaquil,Guayas,A,17,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016695,24-08-2017,52,Tools,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016696,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016697,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016698,24-08-2017,52,BEVERAGES,35,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016699,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016700,24-08-2017,52,BREAD/BAKERY,12,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016701,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016702,24-08-2017,52,CLEANING,11,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016703,24-08-2017,52,DAIRY,7,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016704,24-08-2017,52,Daily,10,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016705,24-08-2017,52,Daily,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016706,24-08-2017,52,FROZEN FOODS,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016707,24-08-2017,52,GROCERY I,53,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016708,24-08-2017,52,Food,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016709,24-08-2017,52,Tools,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016710,24-08-2017,52,Home,1,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016711,24-08-2017,52,Home,2,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016712,24-08-2017,52,Home,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016713,24-08-2017,52,Home,4,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016714,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016715,24-08-2017,52,Tools,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016716,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016717,24-08-2017,52,Food,2,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016718,24-08-2017,52,LifeStyle,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016719,24-08-2017,52,MEATS,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016720,24-08-2017,52,LifeStyle,7,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016721,24-08-2017,52,Food,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016722,24-08-2017,52,Tools,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016723,24-08-2017,52,POULTRY,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016724,24-08-2017,52,PREPARED FOODS,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016725,24-08-2017,52,PRODUCE,3,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016726,24-08-2017,52,Home,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016727,24-08-2017,52,Food,0,Manta,Manabi,A,11,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016728,24-08-2017,53,Tools,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016729,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016730,24-08-2017,53,LifeStyle,1,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016731,24-08-2017,53,BEVERAGES,22,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016732,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016733,24-08-2017,53,BREAD/BAKERY,6,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016734,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016735,24-08-2017,53,CLEANING,8,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016736,24-08-2017,53,DAIRY,5,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016737,24-08-2017,53,Daily,10,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016738,24-08-2017,53,Daily,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016739,24-08-2017,53,FROZEN FOODS,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016740,24-08-2017,53,GROCERY I,39,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016741,24-08-2017,53,Food,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016742,24-08-2017,53,Tools,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016743,24-08-2017,53,Home,1,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016744,24-08-2017,53,Home,1,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016745,24-08-2017,53,Home,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016746,24-08-2017,53,Home,4,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016747,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016748,24-08-2017,53,Tools,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016749,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016750,24-08-2017,53,Food,2,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016751,24-08-2017,53,LifeStyle,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016752,24-08-2017,53,MEATS,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016753,24-08-2017,53,LifeStyle,7,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016754,24-08-2017,53,Food,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016755,24-08-2017,53,Tools,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016756,24-08-2017,53,POULTRY,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016757,24-08-2017,53,PREPARED FOODS,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016758,24-08-2017,53,PRODUCE,2,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016759,24-08-2017,53,Home,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016760,24-08-2017,53,Food,0,Manta,Manabi,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016761,24-08-2017,54,Tools,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016762,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016763,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016764,24-08-2017,54,BEVERAGES,26,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016765,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016766,24-08-2017,54,BREAD/BAKERY,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016767,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016768,24-08-2017,54,CLEANING,15,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016769,24-08-2017,54,DAIRY,3,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016770,24-08-2017,54,Daily,5,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016771,24-08-2017,54,Daily,1,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016772,24-08-2017,54,FROZEN FOODS,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016773,24-08-2017,54,GROCERY I,43,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016774,24-08-2017,54,Food,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016775,24-08-2017,54,Tools,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016776,24-08-2017,54,Home,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016777,24-08-2017,54,Home,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016778,24-08-2017,54,Home,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016779,24-08-2017,54,Home,8,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016780,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016781,24-08-2017,54,Tools,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016782,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016783,24-08-2017,54,Food,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016784,24-08-2017,54,LifeStyle,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016785,24-08-2017,54,MEATS,9,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016786,24-08-2017,54,LifeStyle,7,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016787,24-08-2017,54,Food,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016788,24-08-2017,54,Tools,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016789,24-08-2017,54,POULTRY,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016790,24-08-2017,54,PREPARED FOODS,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016791,24-08-2017,54,PRODUCE,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016792,24-08-2017,54,Home,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016793,24-08-2017,54,Food,0,El Carmen,Manabi,C,3,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016794,24-08-2017,6,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016795,24-08-2017,6,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016796,24-08-2017,6,LifeStyle,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016797,24-08-2017,6,BEVERAGES,30,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016798,24-08-2017,6,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016799,24-08-2017,6,BREAD/BAKERY,13,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016800,24-08-2017,6,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016801,24-08-2017,6,CLEANING,13,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016802,24-08-2017,6,DAIRY,10,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016803,24-08-2017,6,Daily,10,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016804,24-08-2017,6,Daily,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016805,24-08-2017,6,FROZEN FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016806,24-08-2017,6,GROCERY I,45,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016807,24-08-2017,6,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016808,24-08-2017,6,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016809,24-08-2017,6,Home,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016810,24-08-2017,6,Home,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016811,24-08-2017,6,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016812,24-08-2017,6,Home,7,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016813,24-08-2017,6,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016814,24-08-2017,6,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016815,24-08-2017,6,LifeStyle,5,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016816,24-08-2017,6,Food,2,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016817,24-08-2017,6,LifeStyle,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016818,24-08-2017,6,MEATS,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016819,24-08-2017,6,LifeStyle,8,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016820,24-08-2017,6,Food,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016821,24-08-2017,6,Tools,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016822,24-08-2017,6,POULTRY,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016823,24-08-2017,6,PREPARED FOODS,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016824,24-08-2017,6,PRODUCE,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016825,24-08-2017,6,Home,0,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016826,24-08-2017,6,Food,1,Quito,Pichincha,D,13,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016827,24-08-2017,7,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016828,24-08-2017,7,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016829,24-08-2017,7,LifeStyle,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016830,24-08-2017,7,BEVERAGES,30,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016831,24-08-2017,7,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016832,24-08-2017,7,BREAD/BAKERY,7,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016833,24-08-2017,7,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016834,24-08-2017,7,CLEANING,7,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016835,24-08-2017,7,DAIRY,12,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016836,24-08-2017,7,Daily,10,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016837,24-08-2017,7,Daily,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016838,24-08-2017,7,FROZEN FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016839,24-08-2017,7,GROCERY I,46,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016840,24-08-2017,7,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016841,24-08-2017,7,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016842,24-08-2017,7,Home,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016843,24-08-2017,7,Home,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016844,24-08-2017,7,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016845,24-08-2017,7,Home,7,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016846,24-08-2017,7,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016847,24-08-2017,7,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016848,24-08-2017,7,LifeStyle,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016849,24-08-2017,7,Food,6,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016850,24-08-2017,7,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016851,24-08-2017,7,MEATS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016852,24-08-2017,7,LifeStyle,9,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016853,24-08-2017,7,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016854,24-08-2017,7,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016855,24-08-2017,7,POULTRY,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016856,24-08-2017,7,PREPARED FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016857,24-08-2017,7,PRODUCE,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016858,24-08-2017,7,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016859,24-08-2017,7,Food,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016860,24-08-2017,8,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016861,24-08-2017,8,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016862,24-08-2017,8,LifeStyle,1,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016863,24-08-2017,8,BEVERAGES,26,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016864,24-08-2017,8,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016865,24-08-2017,8,BREAD/BAKERY,5,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016866,24-08-2017,8,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016867,24-08-2017,8,CLEANING,6,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016868,24-08-2017,8,DAIRY,8,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016869,24-08-2017,8,Daily,10,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016870,24-08-2017,8,Daily,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016871,24-08-2017,8,FROZEN FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016872,24-08-2017,8,GROCERY I,49,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016873,24-08-2017,8,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016874,24-08-2017,8,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016875,24-08-2017,8,Home,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016876,24-08-2017,8,Home,3,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016877,24-08-2017,8,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016878,24-08-2017,8,Home,5,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016879,24-08-2017,8,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016880,24-08-2017,8,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016881,24-08-2017,8,LifeStyle,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016882,24-08-2017,8,Food,6,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016883,24-08-2017,8,LifeStyle,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016884,24-08-2017,8,MEATS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016885,24-08-2017,8,LifeStyle,8,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016886,24-08-2017,8,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016887,24-08-2017,8,Tools,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016888,24-08-2017,8,POULTRY,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016889,24-08-2017,8,PREPARED FOODS,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016890,24-08-2017,8,PRODUCE,2,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016891,24-08-2017,8,Home,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016892,24-08-2017,8,Food,0,Quito,Pichincha,D,8,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016893,24-08-2017,9,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016894,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016895,24-08-2017,9,LifeStyle,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016896,24-08-2017,9,BEVERAGES,24,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016897,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016898,24-08-2017,9,BREAD/BAKERY,4,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016899,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016900,24-08-2017,9,CLEANING,23,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016901,24-08-2017,9,DAIRY,8,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016902,24-08-2017,9,Daily,9,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016903,24-08-2017,9,Daily,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016904,24-08-2017,9,FROZEN FOODS,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016905,24-08-2017,9,GROCERY I,68,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016906,24-08-2017,9,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016907,24-08-2017,9,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016908,24-08-2017,9,Home,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016909,24-08-2017,9,Home,2,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016910,24-08-2017,9,Home,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016911,24-08-2017,9,Home,9,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016912,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016913,24-08-2017,9,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016914,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016915,24-08-2017,9,Food,1,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016916,24-08-2017,9,LifeStyle,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016917,24-08-2017,9,MEATS,20,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016918,24-08-2017,9,LifeStyle,13,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016919,24-08-2017,9,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016920,24-08-2017,9,Tools,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016921,24-08-2017,9,POULTRY,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016922,24-08-2017,9,PREPARED FOODS,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016923,24-08-2017,9,PRODUCE,3,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016924,24-08-2017,9,Home,9,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
+3016925,24-08-2017,9,Food,0,Quito,Pichincha,B,6,Holiday,Local,Ambato,Fundacion de Ambato,FALSE,47.24
